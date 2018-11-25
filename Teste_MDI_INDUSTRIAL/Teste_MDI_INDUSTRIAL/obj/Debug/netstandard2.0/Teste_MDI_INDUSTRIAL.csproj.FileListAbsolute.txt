@@ -1,0 +1,12 @@
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.csproj.CoreCompileInputs.cache
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.AssemblyInfoInputs.cache
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.AssemblyInfo.cs
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.dll
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.pdb
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\bin\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.deps.json
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\bin\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.dll
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\bin\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.pdb
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Arawali\Downloads\MDI\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\Teste_MDI_INDUSTRIAL\obj\Debug\netstandard2.0\Teste_MDI_INDUSTRIAL.csprojAssemblyReference.cache
